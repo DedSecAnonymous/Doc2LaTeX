@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\Test1.xml
+C:\Users\harsh\Downloads\bfrweabfiw\Test1\bin\Debug\Test1.debugapp

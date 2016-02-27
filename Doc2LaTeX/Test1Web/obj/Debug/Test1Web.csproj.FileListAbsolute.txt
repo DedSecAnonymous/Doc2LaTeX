@@ -1,0 +1,6 @@
+C:\Users\harsh\Downloads\bfrweabfiw\Test1Web\bin\Test1Web.dll.config
+C:\Users\harsh\Downloads\bfrweabfiw\Test1Web\bin\Test1Web.dll
+C:\Users\harsh\Downloads\bfrweabfiw\Test1Web\bin\Test1Web.pdb
+C:\Users\harsh\Downloads\bfrweabfiw\Test1Web\obj\Debug\Test1Web.csprojResolveAssemblyReference.cache
+C:\Users\harsh\Downloads\bfrweabfiw\Test1Web\obj\Debug\Test1Web.dll
+C:\Users\harsh\Downloads\bfrweabfiw\Test1Web\obj\Debug\Test1Web.pdb
